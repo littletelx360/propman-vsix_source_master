@@ -4,7 +4,8 @@
         <Identity Id="7c64986f-f4d6-4983-a49a-518d5512b212" Version="1.0.2" Language="en-US" Publisher="Oleg Shilo" />
         <DisplayName>PropMan</DisplayName>
         <Description xml:space="preserve">Proerty Manipulation Utilities for encapsulating fields, converting auto-properties to full properties and back. </Description>
-        <License>licence.txt</License>
+        <MoreInfo>http://visualstudiogallery.msdn.microsoft.com/64c1ba9d-42fb-4f0a-9c81-1e730a6df0b1</MoreInfo>
+		<License>licence.txt</License>
         <Icon>Resources\Package.ico</Icon>
         <PreviewImage>preview.png</PreviewImage>
         <Tags>text, editor</Tags>
